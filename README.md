@@ -11,3 +11,5 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Estruturas Condicionais e de Repetição
     * Manipulando Strings
     * Desafio: Criando um sistema bancário
+* 02 - Aprendendo Estruturas de Dados com Python
+    * Trabalhando com Listas em Python
