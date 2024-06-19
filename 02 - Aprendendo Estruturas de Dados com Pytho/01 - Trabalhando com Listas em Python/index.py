@@ -1,0 +1,1 @@
+linguagens = ["python", "js", "c"];
