@@ -13,3 +13,4 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Desafio: Criando um sistema bancário
 * 02 - Aprendendo Estruturas de Dados com Python
     * Trabalhando com Listas em Python
+    * Conhecendo Tuplas em Python
