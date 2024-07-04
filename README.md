@@ -17,3 +17,4 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Explorando Conjuntos em Python
     * Aprendendo a Utilizar Dicionários em Python
     * Dominando Funções Python
+    * Desafios Intermediários Formação Python Developer
