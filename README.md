@@ -16,3 +16,4 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Conhecendo Tuplas em Python
     * Explorando Conjuntos em Python
     * Aprendendo a Utilizar Dicionários em Python
+    * Dominando Funções Python
