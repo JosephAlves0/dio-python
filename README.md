@@ -19,3 +19,5 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Dominando Funções Python
     * Desafios Intermediários Formação Python Developer
     * Otimizando o Sistema Bancário com Funções Python
+* 03 - Programação Orientada a Objetos com Python
+    * Introdução à Programação Orientada a Objetos
