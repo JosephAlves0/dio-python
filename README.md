@@ -26,3 +26,5 @@ Esse é um projeto para estudos em Python através da plataforma DIO.
     * Conhecendo Poliformismo em Python
     * Interfaces e Classes Abstratas com Python
     * Modelando o Sistema Bancario em POO
+* 04 - Integração com Python e Frameworks
+    * Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy
